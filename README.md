@@ -1,12 +1,3 @@
-# React Real Estate Website
-
-Website made from scratch with React. The website has animations, icons, carousel and styled components.
-
--Mobile Speed Website: 93
--Desktop Speed Website: 98
-
-The website form submition has been deleted to preserve the website speed. I'm going to made a project just that handle submition forms.
-
 ## Animations
 
 Animations made with react reveal package.
@@ -43,8 +34,4 @@ Site for more information:
 https://styled-components.com/
 ```
 
-# Author
 
-Design and coded by myself with React. Packages used: reveal, icons, styled, carousel.
-
-Lucas Boscariole Silva
