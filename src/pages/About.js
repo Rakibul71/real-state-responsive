@@ -24,7 +24,7 @@ const About = () => {
                 cum ad aliquam ex aliquid!
               </p>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Lorem ipsum git change dolor rakib consectetur adipisicing elit.
                 Placeat, blanditiis inventore perferendis magnam sunt et
                 repellendus assumenda esse laborum eum quos id porro tempora
                 possimus minus exercitationem earum itaque quibusdam odit
