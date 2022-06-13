@@ -16,7 +16,7 @@ const Footer = () => {
               repudiandae beatae unde voluptatibus molestias nesciunt. Suscipit
               tempora quaerat alias cumque.
             </p>
-            <p>&copy; 2021 Real Estate.</p>
+            <p>&copy; 2022 Real Estate.</p>
           </TextContainer>
           <ExploreContainer>
             <Flex>
