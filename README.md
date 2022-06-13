@@ -24,6 +24,14 @@ Site for more information:
 ```
 https://react-icons.github.io/react-icons/
 ```
+## this is optional 
+git fetch --all                # update all remotes
+git checkout main              # checkout the new main
+# update local HEAD
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+    
+git branch -d master           # delete local master
+git branch -rd origin/master   # delete remote master ref
 
 ## Styled Components
 
@@ -34,13 +42,6 @@ Site for more information:
 https://styled-components.com/
 
 ```
-## this is optional 
-git fetch --all                # update all remotes
-git checkout main              # checkout the new main
-# update local HEAD
-git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
-    
-git branch -d master           # delete local master
-git branch -rd origin/master   # delete remote master ref
+
 
 
